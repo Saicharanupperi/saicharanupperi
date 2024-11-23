@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - ⚡ I have completed my B.tech Graduation.
 - 😄 Studied at VelTech University,Chennai.
 - 🤔 Completed Data Scince Course at Innomatics Research Labs,Hyderabad.
-- 💬 Ask me about ...
 - 📫 How to reach me : charan.upperi@gmail.com 
 -->
